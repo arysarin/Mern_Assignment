@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+div{
+    border: 2px rgba(147, 143, 143, 0.324) solid;
+    display: inline-block;
+}
+#div1{
+    
+    border: 3px 3px 3px 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+#div2 {width:12.52%;background:rgb(0, 0, 255);float:left;padding:10px 20px 10px}
+#div3 {width:10%;background:white;float:left;padding:10px 20px 10px}
+#div4 {width:20%;background:blue;float:left;padding:10px 20px 10px}
+#div5 {width:10%;background:white;float:left;padding:10px 20px 10px}
+#div6 {width:30%;background:blue;float:left;padding:10px 20px 10px}
+#div7 {width:63.0%;background:white;float:left;padding:10px 20px 10px}
+#div8 {width:7.67%;background:blue;float:left;padding:10px 20px 10px}
+#div9 {width:7.67%;background:white;float:left;padding:10px 20px 10px}
+#div10 {width:7.67%;background:rgb(0, 0, 255);float:left;padding:10px 20px 10px}
+#div11 {width:12.54%;background:white;float:left;padding:10px 20px 10px}
+#div12 {width:10%;background:rgb(0, 0, 255);float:left;padding:10px 20px 10px}
+#div13 {width:20%;background:white;float:left;padding:10px 20px 10px}
+#div14 {width:10%;background:rgb(0, 0, 255);float:left;padding:10px 20px 10px}
+#div15 {width:7.67%;background:white;float:left;padding:10px 20px 10px}
+#div16 {width:7.67%;background:rgb(0, 0, 255);float:left;padding:10px 20px 10px}
+#div17 {width:7.67%;background:white;float:left;padding:10px 20px 10px}

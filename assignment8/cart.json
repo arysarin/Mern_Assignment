@@ -1,0 +1,26 @@
+[
+    {
+        "product_id":"101",
+        "product_name":"phone",
+        "product_quantity":"2",
+        "product_price":50000
+
+
+    },
+    {
+        "product_id":"102",
+        "product_name":"laptop",
+        "product_quantity":"5",
+        "product_price":90000
+
+
+    },
+    {
+        "product_id":"103",
+        "product_name":"TV",
+        "product_quantity":"2",
+        "product_price":45000
+
+
+    }
+]

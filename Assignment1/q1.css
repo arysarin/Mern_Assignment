@@ -1,0 +1,23 @@
+#info{
+    font-family: fantasy;
+    font-size: 40px;
+    display: inline-block;
+    background-color: #1f0a89;
+    margin: 50px 20px 30px 70px;
+    border-radius: 10px;
+    vertical-align: top;
+    
+}
+#body{
+    font-family: cursive;
+    font-size: 20px;
+    border: 40px;
+    margin: 30px;
+}
+#img{
+    display: inline-block;
+    border: 102px;
+    width: 600px;
+    height: 600px;
+    margin-left: 70px;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="form.css">
+    <head>
+        <title>
+            Registration Form
+        </title>
+    </head>
+    <body>
+        <h1><u>REGISTRATION FORM</u></h1>
+        <form action="" method="post">
+            <div id="form">
+                <div>
+                    <label for="name">Name</label><br>
+                    <input type="text" name="Name" id="name" required>
+                </div>
+                <div>
+                    <label for="Email">Email</label><br>
+                    <input type="email" name="Email" id="Email" placeholder="abcdef@example.com" required>
+                </div>
+                <div>
+                    <label for="Phone">Phone</label><br>
+                    <input type="number" name="Phone" id="Phone" maxlength="10">
+                </div>
+                <div>
+                    <input type="radio" name="Gender" id="Gender" value="Male" class="inline">Male<br>
+                    <input type="radio" name="Gender" id="Gender" value="Female">Female<br>
+                    <input type="radio" name="Gender" id="Gender" value="Others">Others<br>
+                </div>
+                <div>
+                    <label for="Address">Address</label><br>
+                    <textarea name="Address" id="Address" rows="3" cols="50"></textarea>
+                </div>
+                <div>
+                    <label for="Pincode">Pincode</label><br>
+                    <input type="number" name="Pincode" id="Pincode" maxlength="6" required>
+                </div>
+                <div>
+                    <label for="Phone">Phone</label><br>
+                    <input type="number" name="Phone" id="Phone" maxlength="10" required>
+                </div>
+                <div>
+                    <label for="Password">Password</label><br>
+                    <input type="password" name="Password" id="Password" maxlength="18" minlength="8" required>
+                </div>
+                <div>
+                    <label for="Confirm password">Confirm password</label><br>
+                    <input type="password" name="Confirm password" id="Confirm password" maxlength="18" minlength="8" required>
+                </div>
+                <div>
+                    <input type="checkbox" name="checkbox" id="checkbox" class="inline"><p class="inline"> I agree</p>
+                </div>
+                <div>
+                    <input type="submit" name="Submit" id="Submit" value="submit">
+                </div>
+            </div>
+        </form>
+    </body>
+</html>
